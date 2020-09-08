@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Google Africa Developer Scholarship Phase II</string>
+    <string name="learning_leader">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="submit">Submit</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="email">Email Address</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="invalidEmail">Invalid Email</string>
+    <string name="invalidName">Invalid Name</string>
+    <string name="sucess">Submission Successful</string>
+    <string name="not_success">Submission not Successful</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+</resources>
