@@ -8,4 +8,3 @@
 ![ScreenShot](https://i.postimg.cc/06sv2KbM/Screenshot-20200908-230535-com-googleafricadeveloperscholarshipphaseii.jpg)
 
 ![ScreenShot](https://i.postimg.cc/jLBKmFTh/Screenshot-20200908-230553-com-googleafricadeveloperscholarshipphaseii.jpg)
-test
